@@ -1,4 +1,4 @@
-#!/usr/bin/env python3 
+#!/usr/bin/env python3
 import pandas as pd
 ## Export Palo Alto traffic log as csv, then use this to filter the junk
 #Rename your csv file and remove ".csv" if you want to append later
