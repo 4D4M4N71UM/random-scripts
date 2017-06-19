@@ -1,0 +1,27 @@
+Threat Feeds I use with Palo Alto Networks External Dynamic Lists for Block Lists:
+
+https://lists.blocklist.de/lists/all.txt
+
+http://blocklist.greensnow.co/greensnow.txt
+
+http://www.malwaredomainlist.com/hostslist/ip.txt
+
+http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+
+https://panwdbl.appspot.com/lists/etcompromised.txt
+
+https://panwdbl.appspot.com/lists/dshieldbl.txt
+
+http://cinsscore.com/list/ci-badguys.txt
+
+https://www.binarydefense.com/banlist.txt
+
+http://www.dartmouth.edu/~blocked/world-list.html
+
+http://www.nothink.org/blacklist/blacklist_ssh_week.txt
+
+https://blocklist.net.ua/providers/
+
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_vnc.ipset
+
+http://www.ipspamlist.com/public_feeds.csv
