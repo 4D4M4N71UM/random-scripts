@@ -22,4 +22,4 @@ savepath = newpath.replace("\\","/")
 f=pd.read_csv(infile)
 keep_col = ['Receive Time','Source address','Destination address','Application','Repeat Count','Source Port','Destination Port','IP Protocol','URL/Filename','Threat/Content Name','Source Country','Destination Country']
 new_f = f[keep_col]
-new_f.to_csv(savepath + '/' + os.path.basename(infile.rsplit( ".", 1 )[ 0 ]) + "-threat.csv")
+new_f.to_csv(savepath + '/' + os.path.basename(infile.rsplit( ".", 1 )[ 0 ]) + "-threat.csv", index=False)
